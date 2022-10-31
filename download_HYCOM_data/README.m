@@ -3,6 +3,7 @@
 % (get_hycom_whole.m).
 % Source of HYCOM data: https://www.hycom.org/data/goml0pt04/expt-32pt5
 % This product has 12 variables (see details in the link above).
-% We will get the data from the horizontal components of the velocity ('u', 'v'):
+% In these scripts, we will get the data from the horizontal components of the
+% velocity ('u', 'v'):
 %   'u' = eastward_sea_water_velocity
 %   'v' = northward_sea_water_velocity 

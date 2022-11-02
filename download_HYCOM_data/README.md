@@ -5,3 +5,8 @@ This product has 12 variables (see details in the link above).
 In these scripts, we will get the data from the horizontal components of the velocity ('u', 'v') for the Gulf of Mexico.
 - 'u' = eastward_sea_water_velocity
 - 'v' = northward_sea_water_velocity
+
+Temporal evolution of the horizontal components of the surface velocity in the Bay of Campeche (see location details and dates in figures)
+
+![alt text](https://github.com/jcompaire/Matlab/blob/e3dea31805acd5c2103f0fa99447a24b950845ea/images/u_BCampeche.png)
+![alt text](https://github.com/jcompaire/Matlab/blob/e3dea31805acd5c2103f0fa99447a24b950845ea/images/v_BCampeche.png)

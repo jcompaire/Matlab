@@ -1,5 +1,4 @@
-## A MATLAB script to download hourly HYCOM data via OpenDAP and store them as netCDF files separately (get_hycom_individual.m) or combined into a single
-one (get_hycom_whole.m).
+## A MATLAB script to download hourly HYCOM data via OpenDAP and store them as netCDF files separately *(get_hycom_individual.m)* or combined into a single one *(get_hycom_whole.m)*.
 
 Source of HYCOM data: https://www.hycom.org/data/goml0pt04/expt-32pt5
 This product has 12 variables (see details in the link above).

@@ -2,6 +2,6 @@
 
 Source of HYCOM data: https://www.hycom.org/data/goml0pt04/expt-32pt5
 This product has 12 variables (see details in the link above).
-In these scripts, we will get the data from the horizontal components of the velocity ('u', 'v'):
+In these scripts, we will get the data from the horizontal components of the velocity ('u', 'v') for the Gulf of Mexico.
 - 'u' = eastward_sea_water_velocity
-- 'v' = northward_sea_water_velocity 
+- 'v' = northward_sea_water_velocity

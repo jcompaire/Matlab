@@ -6,7 +6,7 @@ In these scripts, we will get the data from the horizontal components of the vel
 - 'u' = eastward_sea_water_velocity
 - 'v' = northward_sea_water_velocity
 
-The surface velocity fields used in [Compaire et al. (2021)](https://doi.org/10.1002/lno.11762) were downloaded using scripts analogous to to those presented here.
+The surface velocity fields used in [Compaire et al. (2021)](https://doi.org/10.1002/lno.11762) were downloaded using scripts analogous to those presented here.
 
 Temporal evolution of the horizontal components of the surface velocity in the Bay of Campeche (see location details and dates in figures)
 

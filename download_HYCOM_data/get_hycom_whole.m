@@ -1,3 +1,14 @@
+%
+%==========================================================================
+%
+% Author:          Jesus C. Compaire
+% Institution:     Department of Biological Oceanography, CICESE
+%                  Ensenada, Baja California, Mexico
+% Contact details: jesus.canocompaire@uca.es
+% Date created:    Apr-2019
+%
+%==========================================================================
+%
 clc
 clear
 close all

@@ -14,4 +14,8 @@ Temporal evolution of the horizontal components of the surface velocity in the B
 ![alt text](https://github.com/jcompaire/Matlab/blob/e3dea31805acd5c2103f0fa99447a24b950845ea/images/v_BCampeche.png)
 
 ## References
-[Compaire et al. (2021)](https://doi.org/10.1002/lno.11762) - Compaire, J. C., Pérez‐Brunius, P., Jiménez‐Rosenberg, S. P. A., Rodríguez Outerelo, J., Echeverri Garcia, L. D. P., & Herzka, S. Z. (2021). Connectivity of coastal and neritic fish larvae to the deep waters. Limnology and Oceanography, 66(6), 2423-2441.
+[Compaire et al. (2021)](https://doi.org/10.1002/lno.11762)
+```
+Compaire, J.C., Pérez‐Brunius, P., Jiménez‐Rosenberg, S.P.A., Rodríguez Outerelo, J.,
+Echeverri Garcia, L.D.P., & Herzka, S.Z. (2021). Connectivity of coastal and neritic 
+fish larvae to the deep waters. Limnology and Oceanography, 66(6), 2423-2441.

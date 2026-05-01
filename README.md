@@ -1,6 +1,10 @@
 # Matlab
 A Matlab's toolbox to deal with big data processing and statistical analysis in marine sciences
 
+## Matlab Projects
+
+- [download HYCOM data](https://github.com/jcompaire/download_HYCOM_data)
+
 ### How to cite
 
 This software is distributed free of charge.
